@@ -1,5 +1,7 @@
 This is a living document, as well as the entire organisation. Everything is evolving and so are we.
 
+Members and contributor rules aply to product repos. This repo for instance is privately maintained by selected members. Exploratory repos are tagged accordingly, and their status is mentioned in the readme.
+
 ## Organisation values
 
 - Think like an end-user, implement like a software architect.
