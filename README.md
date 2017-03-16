@@ -1,4 +1,4 @@
-**Lazy Ass** is an association of smart lazy developers.
+**Lazy Comp** is a bunch of smart lazy developers.
 
 ## Our values
 
