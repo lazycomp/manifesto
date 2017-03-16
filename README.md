@@ -1,11 +1,11 @@
-Unless specifically noted in the readme, repositories (such as this one) are privately maintained. Public repos will refer to policies within this repo for guidelines.
+**Lazy Ass** is an association of smart lazy developers.
 
 ## Our values
 
-- Think like an end-user, implement like a software architect.
-- Design exhaustively. Things left out intentionally should be mentioned.
-- Coordinate with fellow peers with dignity and mutual respect.
-- Do your best.
-- Be kind.
+- When implement things, always have the end-user's perspective in mind.
+- Clear design and roadmap. Architecture decisions must be well argumented and timed.
+- Coordinate with fellow peers with dignity and mutual respect. Be kind.
+- Do your best now, or later you'll have more work to do. Be smart lazy.
 - Have FUN!
-- want more? adhere and add here :)
+
+## Want more? adhere and add here :)
